@@ -1,0 +1,35 @@
+*{
+    overflow-x: hidden;
+}
+.navbar{
+    padding: 1.25rem;
+   
+}
+.bg-primary{
+    background-color:  #fc8476 !important;
+}
+.navbar-nav{
+    padding-right: 3rem;
+}
+.navbar-brand{
+    padding-left: 2rem;
+}
+.avatar{
+    border-radius: 50%;
+    width: 15rem;
+    opacity: 70%;
+}
+.btn{
+    padding:0.5rem 3rem;
+}
+.youtube-link{
+    text-decoration: none;
+}
+.list{
+    list-style: none;
+    
+}
+.bg-copyright{
+    background-color: 
+    #dc3545 ;
+}
